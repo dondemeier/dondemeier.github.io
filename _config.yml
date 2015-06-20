@@ -2,7 +2,7 @@
 title: dondemeier
 email: rebbdohr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  News for my github repository.
+  news for my github repository.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
