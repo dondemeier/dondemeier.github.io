@@ -3,5 +3,5 @@ layout: page
 title: about
 permalink: /about/
 ---
-
-composed by dondemeier.
+hosted by github, composed with jekyll.
+by dondemeier.
