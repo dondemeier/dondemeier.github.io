@@ -1,12 +1,12 @@
 # Site settings
-title: dondemeier
+title: rebbdohr
 email: rebbdohr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   news for my github repository.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  dondemeier
+github_username:  rebbdohr
 
 # Build settings
 markdown: kramdown
